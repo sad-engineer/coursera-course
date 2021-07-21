@@ -39,7 +39,7 @@ h1 {
   top: 0px;
 }
 
-.card1-header h2 {
+.card-header h2 {
   font-family: Calibri;
   background-color: green;
   border: 1px solid black;
@@ -50,7 +50,7 @@ h1 {
   top: 0px;
 }
 
-.card2-header h2 {
+.card-header h2 {
   font-family: Calibri;
   background-color: red;
   border: 1px solid black;
