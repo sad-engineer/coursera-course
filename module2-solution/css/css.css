@@ -39,28 +39,6 @@ h1 {
   top: 0px;
 }
 
-.card-header h2 {
-  font-family: Calibri;
-  background-color: green;
-  border: 1px solid black;
-  text-align: center;
-  width: 50%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-}
-
-.card-header h2 {
-  font-family: Calibri;
-  background-color: red;
-  border: 1px solid black;
-  text-align: center;
-  width: 50%;
-  position: absolute;
-  right: 0px;
-  top: 0px;
-}
-
 
 p {
   color: white;
